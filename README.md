@@ -1,6 +1,6 @@
 ## Kale Moskowitz
 
-Second Year Student at Simon Fraser University, pursuing a Computer Engineering undergraduate degree.
+Fourth Year Student at Simon Fraser University, pursuing a Computer Engineering undergraduate degree.
 
 <!--
 **MoskowitzRocket/MoskowitzRocket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
